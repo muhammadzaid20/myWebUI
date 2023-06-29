@@ -2,7 +2,7 @@
     "txt2img/Prompt/visible": true,
     "txt2img/Prompt/value": "((best quality)), ((masterpiece)), ((detailed)),",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "wires, ear rings, big head,large head, extra digits, dirty face (deformed iris, deformed pupils, bad eyes, semi-realistic:1.4) (bad-image-v2-39000, bad_prompt_version2, bad-hands-5, EasyNegativeV2, ng_deepnegative_v1_75t, bad-artist-anime:0.7),(worst quality, low quality:1.3), (depth of field, blurry:1.2), (greyscale, monochrome:1.1), nose, cropped, lowres, text, jpeg artifacts, signature, watermark, username, blurry, artist name, trademark, watermark, title, (muscular, sd character:1.1), multiple view, Reference sheet, long neck",
+    "txt2img/Negative prompt/value": "3d, cartoon, anime, sketches, (worst quality, bad quality, cropped:1.4), ((monochrome)), ((grayscale)),  (bad-hands-5:1.0), (badhandv4:1.0), (easynegative),  (bad-artist-anime), (bad-artist), (bad_prompt), (bad-picture-chill-75v), (bad_prompt_version2), (bad_quality)",
     "txt2img/Interrupt/visible": true,
     "txt2img/Skip/visible": true,
     "txt2img/Generate/visible": true,
