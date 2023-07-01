@@ -1,8 +1,8 @@
 {
     "txt2img/Prompt/visible": true,
-    "txt2img/Prompt/value": "((best quality)), ((masterpiece)), ((detailed)),",
+    "txt2img/Prompt/value": "",
     "txt2img/Negative prompt/visible": true,
-    "txt2img/Negative prompt/value": "3d,  cartoon, anime, sketches, realistic, large head,(worst quality, bad quality, cropped:1.4),  (easynegative),(ng_deepnegative_v1_75t),  (bad_quality), (bad-artist)",
+    "txt2img/Negative prompt/value": "",
     "txt2img/Interrupt/visible": true,
     "txt2img/Skip/visible": true,
     "txt2img/Generate/visible": true,
